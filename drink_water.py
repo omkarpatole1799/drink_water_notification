@@ -15,7 +15,8 @@ if __name__ == '__main__':
     while True:
         drink_water("Omkar!" , "Drink Water")
         time.sleep(1800)
-        #time is in seconds 1800 seconds means 30 min
+        """time is in seconds 1800 seconds means 30 min
+        so it will remind you to drink water every 30 min"""
 
     
 
